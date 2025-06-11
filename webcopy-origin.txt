@@ -1,0 +1,132 @@
+Uri: https://dotdna.io/?preloader=off
+File Name: D:\Download site\dotdna.io\index.htm
+Content Type: text/html
+
+Uri: https://dotdna.io/css/style.min.css
+File Name: D:\Download site\dotdna.io\css\style.min.css
+Content Type: text/css
+
+Uri: https://dotdna.io/fonts/InterTight-Black.tts667sa.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-Black.tts667sa.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-BlackItalic.CzE2jCTF.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-BlackItalic.CzE2jCTF.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-Bold.BS7jnKD5.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-Bold.BS7jnKD5.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-BoldItalic.Bpc-JLYd.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-BoldItalic.Bpc-JLYd.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-ExtraBold.BavLzL8i.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-ExtraBold.BavLzL8i.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-ExtraBoldItalic.CE0mwN4b.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-ExtraBoldItalic.CE0mwN4b.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-ExtraLight.CVgqsRL8.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-ExtraLight.CVgqsRL8.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-ExtraLightItalic.BLcsmRvr.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-ExtraLightItalic.BLcsmRvr.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-Italic.Bs-xk2-X.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-Italic.Bs-xk2-X.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-Light.B7d-97ny.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-Light.B7d-97ny.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-LightItalic.D5w0SJAL.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-LightItalic.D5w0SJAL.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-Medium.BPdn3PI5.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-Medium.BPdn3PI5.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-MediumItalic.CEf5J6qs.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-MediumItalic.CEf5J6qs.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-Regular.DazP3ozs.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-Regular.DazP3ozs.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-SemiBold.DmsS3AUT.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-SemiBold.DmsS3AUT.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-SemiBoldItalic.BmNnWeCa.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-SemiBoldItalic.BmNnWeCa.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-Thin.DPm7Z3Jy.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-Thin.DPm7Z3Jy.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/InterTight-ThinItalic.wkiJcNBV.ttf
+File Name: D:\Download site\dotdna.io\fonts\InterTight-ThinItalic.wkiJcNBV.ttf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/ppneuemontreal-bold.eYoqcLYb.otf
+File Name: D:\Download site\dotdna.io\fonts\ppneuemontreal-bold.eYoqcLYb.otf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/ppneuemontreal-book.DWrvOlKa.otf
+File Name: D:\Download site\dotdna.io\fonts\ppneuemontreal-book.DWrvOlKa.otf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/ppneuemontreal-italic.CsL59pu1.otf
+File Name: D:\Download site\dotdna.io\fonts\ppneuemontreal-italic.CsL59pu1.otf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/ppneuemontreal-medium.Bc1YMBzw.otf
+File Name: D:\Download site\dotdna.io\fonts\ppneuemontreal-medium.Bc1YMBzw.otf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/ppneuemontreal-semibolditalic.CB6OmcGC.otf
+File Name: D:\Download site\dotdna.io\fonts\ppneuemontreal-semibolditalic.CB6OmcGC.otf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/fonts/ppneuemontreal-thin.XYPwWDmP.otf
+File Name: D:\Download site\dotdna.io\fonts\ppneuemontreal-thin.XYPwWDmP.otf
+Content Type: application/octet-stream
+
+Uri: https://dotdna.io/img/img-32.png
+File Name: D:\Download site\dotdna.io\img\img-32.png
+Content Type: image/png
+
+Uri: https://dotdna.io/img/img-7.png
+File Name: D:\Download site\dotdna.io\img\img-7.png
+Content Type: image/png
+
+Uri: https://dotdna.io/img/img-8.png
+File Name: D:\Download site\dotdna.io\img\img-8.png
+Content Type: image/png
+
+Uri: https://dotdna.io/js/main.min.js
+File Name: D:\Download site\dotdna.io\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://dotdna.io/libs/SplitText.min.js
+File Name: D:\Download site\dotdna.io\libs\SplitText.min.js
+Content Type: application/javascript
+
+Uri: https://dotdna.io/logo.svg
+File Name: D:\Download site\dotdna.io\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-WBQFELEVT7
+File Name: D:\Download site\dotdna.io\gtag\js
+Content Type: application/javascript
+
